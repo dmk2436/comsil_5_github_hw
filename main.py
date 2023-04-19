@@ -1,2 +1,2 @@
 print('Hello world! I am master.')
-print('I am slave1.')
+print('I am slave2.')
